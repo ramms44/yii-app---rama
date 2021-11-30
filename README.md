@@ -1,2 +1,2 @@
-# yii-app---rama
+# yii-app-rama
 yii php website starter - learning
